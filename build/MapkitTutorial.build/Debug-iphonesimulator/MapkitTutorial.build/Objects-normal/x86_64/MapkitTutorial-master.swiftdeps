@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "2be1569d04112fc61259760d4128d5e6"
+build_time: [1511644915, 290679000]
+inputs:
+  "/Users/Vidyadhar/Desktop/Github/MapkitTutorial/MapkitTutorial/ViewController.swift": [1511644915, 0]
+  "/Users/Vidyadhar/Desktop/Github/MapkitTutorial/MapkitTutorial/AppDelegate.swift": [1511644635, 0]
